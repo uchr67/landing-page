@@ -62,3 +62,47 @@ button {
     padding: 12px 24px;
     font-size: 1rem;
 }
+
+.in {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.info, h2 {
+    display: flex;
+
+    justify-content: center;
+    
+}
+
+.info {
+    justify-content: space-between;
+    padding: 0 100px;
+}
+
+.item{
+width: 170px;
+}
+.item img{
+    width: 170px;
+    height: 170px;
+    text-align: center;
+}
+
+.fourth {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    padding: 10px 100px;
+    display: block;
+}
+
+.qu {
+    font-weight: 300;
+}
+
+.quote {
+    text-align: end;
+    font-weight: bolder;
+}
