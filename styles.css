@@ -15,6 +15,10 @@ body {
     align-items: center;
 }
 
+.puu {
+    text-align: center;
+}
+
 .logo {
     font-size: 24px;
 }
@@ -143,4 +147,12 @@ width: 170px;
 
 .fif h2, .fif p {
     margin: 0;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 24px 0;
+    margin-top: auto;
 }
